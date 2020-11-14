@@ -1,3 +1,9 @@
+# Sim está em inglês, se vir para entender
+# Arthur Candido Regueira de Miranda
+
+# Jetbrains CLion Settings
+/.idea
+
 # Prerequisites
 *.d
 
